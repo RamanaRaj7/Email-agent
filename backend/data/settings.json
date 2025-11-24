@@ -1,6 +1,6 @@
 {
   "llm_provider": "groq",
-  "groq_api_key": " ",
+  "groq_api_key": " your groq api key here or save it via settings in the UI",
   "groq_model": "llama-3.3-70b-versatile",
   "ollama_model": "llama3.1:8b"
 }

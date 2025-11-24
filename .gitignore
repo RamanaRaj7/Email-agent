@@ -29,7 +29,6 @@ backend/data/gmail_token.json
 backend/data/gmail_*.json
 
 # Google credentials
-credentials.json
 *.json.bak
 
 # Environment variables
