@@ -1,0 +1,14 @@
+{
+  "categorization": {
+    "name": "Categorization",
+    "template": "Categorize the following email into one of these categories: Important, news, Spam, To-Do or any other single word category you see fit. To-Do emails must include a direct request requiring user action. Return only the category name."
+  },
+  "action_items": {
+    "name": "Action Item Extraction",
+    "template": "Extract tasks from the email. Respond in JSON format: { \"tasks\": [ { \"task\": \"...\", \"deadline\": \"...\" } ] }. If no tasks, return { \"tasks\": [] }."
+  },
+  "auto_reply": {
+    "name": "Auto-Reply Draft",
+    "template": "Draft a polite reply to this email. If it is a meeting request, ask for an agenda. Keep it professional and concise."
+  }
+}

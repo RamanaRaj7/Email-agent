@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+ollama
+groq
+pydantic
+python-dotenv
+google-api-python-client
+google-auth
+google-auth-oauthlib
+requests
+chromadb

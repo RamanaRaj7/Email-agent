@@ -1,0 +1,156 @@
+[
+  {
+    "id": "4d2d8470-0d88-4f67-9ccf-15df0b756fb6",
+    "sender": "hr@company.com",
+    "subject": "Mandatory Security Training",
+    "body": "All employees must complete new cybersecurity modules before December 10th.",
+    "timestamp": "2025-11-22T16:49:54.857600",
+    "read": false,
+    "category": null,
+    "action_items": [],
+    "source": "ingestion"
+  },
+  {
+    "id": "a8fa43c4-7fa6-44ee-8f85-416f71cbe458",
+    "sender": "newsletter@aiweekly.com",
+    "subject": "AI Weekly #142",
+    "body": "This week in AI: breakthroughs in multimodal models and new LLM benchmarks.",
+    "timestamp": "2025-11-22T15:49:54.857620",
+    "read": false,
+    "category": null,
+    "action_items": [],
+    "source": "ingestion"
+  },
+  {
+    "id": "472331e4-2d64-49b8-a747-d411f8589c2e",
+    "sender": "alerts@bank.com",
+    "subject": "Important: Account Login Notice",
+    "body": "A login attempt was detected from a new device. If this wasn't you, reset your password immediately.",
+    "timestamp": "2025-11-22T14:49:54.857630",
+    "read": false,
+    "category": null,
+    "action_items": [],
+    "source": "ingestion"
+  },
+  {
+    "id": "f477c88c-a825-4857-88ad-fefbedfa7124",
+    "sender": "spam@unknown-offers.com",
+    "subject": "WIN A FREE IPHONE TODAY!",
+    "body": "Click now to claim your free prize. Limited time offer!!!",
+    "timestamp": "2025-11-22T13:49:54.857640",
+    "read": false,
+    "category": null,
+    "action_items": [],
+    "source": "ingestion"
+  },
+  {
+    "id": "5bf6491f-6550-4e7e-a87e-8991c6801969",
+    "sender": "billing@saascloud.com",
+    "subject": "Invoice #98765",
+    "body": "Your subscription invoice for November is attached. Payment due in 7 days.",
+    "timestamp": "2025-11-22T12:49:54.857650",
+    "read": false,
+    "category": null,
+    "action_items": [],
+    "source": "ingestion"
+  },
+  {
+    "id": "f3bee846-3c6b-4c02-a142-e39043dd0a52",
+    "sender": "colleague@company.com",
+    "subject": "Code Review Request",
+    "body": "Can you review my PR before the 4 PM meeting? The changes impact the auth service.",
+    "timestamp": "2025-11-22T11:49:54.857660",
+    "read": false,
+    "category": null,
+    "action_items": [],
+    "source": "ingestion"
+  },
+  {
+    "id": "ce124d8f-0531-4ede-bc39-58efd9c8e904",
+    "sender": "notifications@github.com",
+    "subject": "New Issue Assigned to You",
+    "body": "A new issue regarding API rate limits has been assigned to you.",
+    "timestamp": "2025-11-22T10:49:54.857670",
+    "read": false,
+    "category": null,
+    "action_items": [],
+    "source": "ingestion"
+  },
+  {
+    "id": "cdb92a1f-9830-4a14-bc76-bc6cf15b1abc",
+    "sender": "support@internetprovider.com",
+    "subject": "Scheduled Maintenance Notification",
+    "body": "Your area will undergo network maintenance on November 28th from 2\u20134 AM.",
+    "timestamp": "2025-11-22T09:49:54.857680",
+    "read": false,
+    "category": null,
+    "action_items": [],
+    "source": "ingestion"
+  },
+  {
+    "id": "babd4d87-1b47-4f72-b0a0-b14cdaae3164",
+    "sender": "mom@family.com",
+    "subject": "Weekend Plans",
+    "body": "Are you free to visit on Sunday? Let me know early so I can prepare lunch.",
+    "timestamp": "2025-11-22T08:49:54.857690",
+    "read": false,
+    "category": null,
+    "action_items": [],
+    "source": "ingestion"
+  },
+  {
+    "id": "e2b16bc0-06fe-4f37-b9af-0ea99280b8a5",
+    "sender": "welcomes@onlineshop.com",
+    "subject": "Your Order Has Shipped",
+    "body": "Your recent order is on its way. Track the package from your dashboard.",
+    "timestamp": "2025-11-22T07:49:54.857700",
+    "read": false,
+    "category": null,
+    "action_items": [],
+    "source": "ingestion"
+  },
+  {
+    "id": "8d0a12c8-16c3-4cc6-bbb7-cacfc219d06c",
+    "sender": "teamlead@company.com",
+    "subject": "Sprint Planning Notes",
+    "body": "Please prepare your task estimates for tomorrow\u2019s sprint planning meeting.",
+    "timestamp": "2025-11-22T06:49:54.857710",
+    "read": false,
+    "category": null,
+    "action_items": [],
+    "source": "ingestion"
+  },
+  {
+    "id": "e1c9eb43-61bd-40f0-9fc1-4065d22ae1da",
+    "sender": "events@techsummit.com",
+    "subject": "Conference Registration Confirmed",
+    "body": "You\u2019re registered for Tech Summit 2025. Full schedule available next week.",
+    "timestamp": "2025-11-22T05:49:54.857720",
+    "read": false,
+    "category": null,
+    "action_items": [],
+    "source": "ingestion"
+  },
+  {
+    "id": "19bd143f-e967-4b4b-8220-0760aee89f87",
+    "sender": "Ramana@email.com",
+    "subject": "Re: Mandatory Security Training",
+    "body": "Subject: Re: Mandatory Security Training\n\nDear HR Team,\n\nThank you for the notification regarding the mandatory cybersecurity modules. I will make sure to complete them by the deadline of December 10th.\n\nCould you please provide more details on the training requirements and any specific procedures I need to follow?\n\nBest regards,\n[Your Name]",
+    "timestamp": "2025-11-23T15:42:52.366878",
+    "read": false,
+    "category": null,
+    "action_items": [],
+    "source": "ingestion"
+  },
+  {
+    "id": "3d442116-4ec4-45a9-aaf8-e044e5e7530a",
+    "sender": "Ramana@email.com",
+    "subject": "Re: Security alert",
+    "body": "Subject: Re: Security alert\n\nDear Google Team,\n\nThank you for reaching out regarding the security alert on my Google Account. I've checked my account activity and taken steps to secure my account.\n\nBefore proceeding further, could you please provide me with more context on the 'ocean ai' access mentioned in the email? I would appreciate any additional information you can provide regarding this incident.\n\nThank you for your time and assistance in keeping my account secure.\n\nBest regards,\nRamana",
+    "timestamp": "2025-11-24T04:05:08.965101",
+    "read": false,
+    "category": null,
+    "action_items": [],
+    "source": "ingestion"
+  }
+]

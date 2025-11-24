@@ -1,0 +1,6 @@
+{
+  "llm_provider": "groq",
+  "groq_api_key": " ",
+  "groq_model": "llama-3.3-70b-versatile",
+  "ollama_model": "llama3.1:8b"
+}
