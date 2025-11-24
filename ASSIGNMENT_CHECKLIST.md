@@ -434,18 +434,19 @@
 
 | Requirement | Status | Notes |
 |---|---|---|
-| Source Code Repository |  | GitHub-ready |
-| README.md |  | Complete & detailed |
-| Mock Inbox (10-20 emails) |  | 11 emails provided |
-| Default Prompts |  | 3 templates ready |
-| Inbox Ingestion |  | 3-phase pipeline working |
-| Email Categorization |  | LLM-driven via prompts |
-| Action Item Extraction |  | JSON formatted with deadlines |
-| Email Agent Chat |  | RAG + semantic search |
-| Draft Generation |  | Safe, never auto-sends |
-| Prompt Configuration |  | Full edit/save capability |
-| Code Quality |  | Modular, well-organized |
-| Error Handling |  | Graceful LLM error handling |
-| Safety |  | Drafts not sent automatically |
+| Source Code Repository | complete | GitHub-ready |
+| README.md | complete | Complete & detailed |
+| Mock Inbox | complete | sample emails provided |
+| Gmail Inbox | complete | Sync 20 recent emails |
+| Default Prompts | complete | 3 templates ready |
+| Inbox Ingestion | complete | 3-phase pipeline working |
+| Email Categorization | complete | LLM-driven via prompts |
+| Action Item Extraction | complete | JSON formatted with deadlines |
+| Email Agent Chat | complete | RAG + semantic search |
+| Draft Generation | complete | Safe, never auto-sends |
+| Prompt Configuration | complete | Full edit/save capability |
+| Code Quality | complete | Modular, well-organized |
+| Error Handling | complete | Graceful LLM error handling |
+| Safety | complete | Drafts not sent automatically |
 
 ---
